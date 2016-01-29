@@ -26,9 +26,9 @@ Please see Appendices A and B  for PGP key generation and strengthening commands
 
 The following screenshots show you how to generate/verify a signature in Electrum.
 
-https://myveryown.org/demo/screens/openprov-demo_01.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_01.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_02.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_02.jpg)
 
 
 #####Step 2
@@ -38,7 +38,7 @@ https://myveryown.org/demo/london.cr2.txt
 
 https://myveryown.org/demo/london.xmp.txt
 
-https://myveryown.org/demo/london.jpg
+![demo](https://myveryown.org/demo/london.jpg)
 
 https://myveryown.org/demo/london.jpg.txt
 
@@ -47,11 +47,11 @@ Please see Appendix E for more information on Encrypting, Signing, Verifying, Ha
 #####Step 3
 We then create an OPENPROV.TXT file and signed it with both our PGP key and bitcoin vanity address. https://myveryown.org/demo/openprov.txt
 
-https://myveryown.org/demo/screens/openprov-demo_03.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_03.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_04.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_04.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_05.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_05.jpg)
 
 We used the openprov.txt template file 
 https://myveryown.org/template.zip
@@ -87,11 +87,11 @@ This key pair creates a direct representation of our object in the blockchain.
 
 The following screen shots detail how we obtained the bitcoin address using our SHA256 hash as a private key using bitaddress.org locally. 
 
-https://myveryown.org/demo/screens/openprov-demo_06.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_06.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_07.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_07.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_08.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_08.jpg)
 
 #####Step 8
 TX A: https://blockchain.info/tx/50e30265604e888c384796675bc246f2dc9f8ed6aa9d5854bcd778765ae7feb8 
@@ -102,29 +102,29 @@ TX B: As we are working with a digital object e.g. a .JPG we are going to use pa
 
 We use coinb.in locally to 
 
-Create 
+* Create 
 
-https://myveryown.org/demo/screens/openprov-demo_09.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_09.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_10.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_10.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_11.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_11.jpg)
 
-Sign 
+* Sign 
 
-https://myveryown.org/demo/screens/openprov-demo_12.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_12.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_13.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_13.jpg)
 
-Verify 
+* Verify 
 
-https://myveryown.org/demo/screens/openprov-demo_14.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_14.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_15.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_15.jpg)
 
-Broadcast the transaction as shown.
+* Broadcast the transaction as shown.
 
-https://myveryown.org/demo/screens/openprov-demo_16.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_16.jpg)
 
 http://coinsecrets.org/?to=393451.000036
 
@@ -138,21 +138,21 @@ TX C: The OP_RETURN transaction data in the output transaction and all subsequen
 
 Then again using coinb.in to create, sign, verify and broadcast the transaction.
 
-https://myveryown.org/demo/screens/openprov-demo_17.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_17.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_18.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_18.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_19.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_19.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_20.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_20.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_21.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_21.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_22.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_22.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_23.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_23.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_24.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_24.jpg)
 
 http://coinsecrets.org/?to=393454.000004 
 
@@ -161,11 +161,11 @@ https://blockchain.info/tx/8fd1b973d42a87323defd2c8d2cead6ddf3d3e5397f816a934746
 #####Step 9
 We use bitaddress locally to obtain public keys from the private keys we wish to use in the multisig.
 
-https://myveryown.org/demo/screens/openprov-demo_25.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_25.jpg)
 
 Then using coinb.in locally create a multisig address and redeem script.
 
-https://myveryown.org/demo/screens/openprov-demo_26.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_26.jpg)
 
 Please see Appendix F for the keys used to create the multisig so you are able to verify the process.
 
@@ -177,15 +177,15 @@ The multisig address is then funded from the Genesis key and this transaction in
 
 We use coinb.in locally to create, sign and broadcast the transaction.
 
-https://myveryown.org/demo/screens/openprov-demo_27.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_27.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_28.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_28.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_29.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_29.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_30.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_30.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_31.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_31.jpg)
 
 http://coinsecrets.org/?to=393456.000010
 
@@ -197,23 +197,23 @@ https://blockchain.info/tx/4b6e5af733b072a2188675c5c4c7998b7138f21d0b49bb7999ed3
 #####Step 12
 Usiing coinb.in locally we create, sign, verify and broadcast the first transaction.
 
-https://myveryown.org/demo/screens/openprov-demo_32.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_32.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_33.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_33.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_34.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_34.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_35.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_35.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_36.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_36.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_37.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_37.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_38.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_38.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_39.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_39.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_40.jpg 
+![demo](https://myveryown.org/demo/screens/openprov-demo_40.jpg)
 
 https://blockchain.info/tx/83c432b5955752c56fc83a2e3b5ab9ea55e334c438bd57ca01db3860865409b7
 
@@ -221,19 +221,19 @@ Then we create, sign and broadcast the second transaction which includes the OP_
 
 *4f50454e50524f5677A2BB6D9B937185B08ADA025DAB3B7A9801667288CF03BCC12E0CFAF755A88D*
 
-https://myveryown.org/demo/screens/openprov-demo_41.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_41.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_42.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_42.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_43.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_43.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_44.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_44.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_45.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_45.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_46.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_46.jpg)
 
-https://myveryown.org/demo/screens/openprov-demo_47.jpg
+![demo](https://myveryown.org/demo/screens/openprov-demo_47.jpg)
 
 http://coinsecrets.org/?to=393559.000001
 
@@ -252,23 +252,15 @@ http://coinsecrets.org/?to=393574.000001
 
 #####Software
 
-https://github.com/samr7/vanitygen used to brute force bitcoin vanity addresses.
-
-https://www.gnupg.org used to create PGP keys and binary file signatures.
-
-https://bitaddress.org used to obtain public keys and addresses from private keys.
-
-https://coinb.in used to create multisig and OP_RETURN transactions.
-
-http://coinsecrets.org used to view OP_RETURN transaction data in the blockchain.
-
-https://electrum.org used to generate bitcoin message signatures.
-
-https://blockchain.info used to obtain blockchain block data.
-
-https://blockr.io used to cross check blockchain data.
-
-https://www.branah.com/ascii-converter used to convert ASCII to HEX.
+* https://github.com/samr7/vanitygen used to brute force bitcoin vanity addresses.
+* https://www.gnupg.org used to create PGP keys and binary file signatures.
+* https://bitaddress.org used to obtain public keys and addresses from private keys.
+* https://coinb.in used to create multisig and OP_RETURN transactions.
+* http://coinsecrets.org used to view OP_RETURN transaction data in the blockchain.
+* https://electrum.org used to generate bitcoin message signatures.
+* https://blockchain.info used to obtain blockchain block data.
+* https://blockr.io used to cross check blockchain data.
+* https://www.branah.com/ascii-converter used to convert ASCII to HEX.
 
 #####Raspberry Pi 2 - Additional Software Setup
 Ensure your raspbian installation is up to date.
