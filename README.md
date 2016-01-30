@@ -190,7 +190,7 @@ We believe this procedure can be used to help with rights management and ownersh
 
 We are working on a custom block explorer to show in realtime OPENPROV object transactions and provide custom SHA256 search facilities.  We will also create the ability for people to claim ownership of these objects in the blockchain using bitcoin text message signing.  Ideally we would like to create an app that would facilitate the documentation of the creation and transfer of objects.
 
-We believe the JSON data exchange format is useful and would like to create an openprov.js file that can be written/read by API’s.
+We believe the JSON data exchange format is useful and would like to create an API.
 
 We also believe Namecoin may have potential applications when it comes to identity and object data. 
 
