@@ -433,17 +433,12 @@ The -D switch is used to specify the GPU to use which in our case is 0:0.  If yo
 The expected output would read something like
 ````
 Difficulty: 15318045009
-
 [3.42 Mkey/s][total 50331648][Prob 0.3%][50% in 51.5min]
 ````
-
 Once the search is complete you will see something like.  
 ````
-
 Pattern: 1openP
-
 Address:1openPBE4b7hTJ5Q6oZGgaHpxG2bC2h32
-
 Priv Key: **************************************************
 ````
 
@@ -467,7 +462,9 @@ pi@raspberrypi ~ $ **nano pgp.txt**
 Press ctrl+x to exit nano, answer y to save the changes.
 
 Then sign the file with PGP e.g.
+
 pi@raspberrypi ~ $ **gpg --clearsign --digest-algo SHA256 pgp.txt**
+
 This will result in a pgp.txt.asc file that contains the PGP signed, copy of your public key and bitcoin address.  Delete the pgp.txt and rename pgp.txt.asc to pgp.txt
 
 pi@raspberrypi ~ $ **rm pgp.txt**
