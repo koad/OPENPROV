@@ -1,6 +1,8 @@
 # OPEN PROVENANCE 
 ## A Peer-to-Peer Electronic Provenance System
 
+[![Join the chat at https://gitter.im/OpenProvenance/OPENPROV](https://badges.gitter.im/OpenProvenance/OPENPROV.svg)](https://gitter.im/OpenProvenance/OPENPROV?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #####https://myveryown.org
 
 ####by Steve Douglas ( steve@myveryown.net )
